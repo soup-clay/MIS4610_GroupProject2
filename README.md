@@ -19,7 +19,12 @@ By utilizing data collected about weather conditions and accident severity, civi
 
 By utilizing data/time data with crash volume, police forces are better able to staff appropriately to respond to accidents quickly and get emergency personnel on the scene faster, which is crucial for saving lives in violent accidents. Also, this data can then be used to ask some more causational questions, like why does *this* specific time of day have the highest volume of accidents.
 ## Data Manipulation
-No manipulation was applied to the dataset.
+Two calculated fields were created.
+
+In the first visualization, a calculated field was used to define the attributes that indicated what was 'Bad Weather'. We defined 'Bad Weather' as foggy or blowing sand, snow, dirt, or soil. Additionally, it defined whether alcohol was contributing and whether both bad weather and alcohol were contributing.
+
+In the second visualization, a calculated field was used to define the different parts of the day, i.e., morning, midday, and night. Morning is defined as 5 am to 11. Midday is defined as noon till 5, and night is anything else.
+
 ## Analysis and Results
 ### Question 1
 
