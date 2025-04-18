@@ -27,6 +27,15 @@ In the second visualization, a calculated field was used to define the different
 
 ## Analysis and Results
 ### Question 1
+Does drunk driving or unsafe weather conditions lead to more car accidents, and how does it affect the injury severity?
+
+This visualization shows us that not only are there more collisions where alcohol is involved, but there are also more injuries and severe injuries than when it is bad weather. This could influence more DUI checkpoints to mitigate alcohol contributed instances.
+<img width="864" alt="Screenshot 2025-04-18 at 7 42 40 PM" src="https://github.com/user-attachments/assets/d1e452fd-0850-4543-bc2a-7b589442d6ac" />
 
 ### Question 2
+What time of day has the most collisions?
+
+This visualization tells us that during midday, there is a higher risk of collisions. This is in some ways surprising because nighttime could include more under influence incidents and seeing can be more challenging at night. This also can lead to higher resource allocation during midday.
+<img width="365" alt="Screenshot 2025-04-18 at 7 47 39 PM" src="https://github.com/user-attachments/assets/8b7fba02-e8ed-47bb-85ee-4cb71cefa10a" />
+
 ## Tableau Packaged Workbook Link
