@@ -29,7 +29,7 @@ In the second visualization, a calculated field was used to define different par
 ### Question 1
 Does drunk driving or unsafe weather conditions lead to more car accidents, and how does it affect injury severity?
 
-This visualization shows us that not only are there more collisions when alcohol is involved, but there is also a greater volume and increased severity of injuries than when it is bad weather. Using this data, police departments can utilize more DUI checkpoints to mitigate alcohol contributed instances.
+This visualization shows us that not only are there more collisions when alcohol is involved, but there is also a greater volume and increased severity of injuries in bad weather. Using this data, police departments can utilize more DUI checkpoints to mitigate alcohol contributed instances.
 <img width="864" alt="Screenshot 2025-04-18 at 7 42 40 PM" src="https://github.com/user-attachments/assets/d1e452fd-0850-4543-bc2a-7b589442d6ac" />
 
 ### Question 2
