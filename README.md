@@ -21,21 +21,21 @@ By utilizing data/time data with crash volume, police forces are better able to 
 ## Data Manipulation
 Two calculated fields were created.
 
-In the first visualization, a calculated field was used to define the attributes that indicated what was 'Bad Weather'. We defined 'Bad Weather' as foggy or blowing sand, snow, dirt, or soil. Additionally, it defined whether alcohol was contributing and whether both bad weather and alcohol were contributing.
+In the first visualization, a calculated field was used to define attributes that indicate 'Bad Weather,' defined as foggy or blowing sand, snow, dirt, or soil. Additionally, it defined whether alcohol was contributing and whether both bad weather and alcohol were contributing.
 
-In the second visualization, a calculated field was used to define the different parts of the day, i.e., morning, midday, and night. Morning is defined as 5 am to 11. Midday is defined as noon till 5, and night is anything else.
+In the second visualization, a calculated field was used to define different parts of the day, i.e., morning, midday, and night. Morning is defined as 5 - 11 am, midday is defined as 12 - 5 pm, and night is 5 pm - 5 am.
 
 ## Analysis and Results
 ### Question 1
-Does drunk driving or unsafe weather conditions lead to more car accidents, and how does it affect the injury severity?
+Does drunk driving or unsafe weather conditions lead to more car accidents, and how does it affect injury severity?
 
-This visualization shows us that not only are there more collisions where alcohol is involved, but there are also more injuries and severe injuries than when it is bad weather. This could influence more DUI checkpoints to mitigate alcohol contributed instances.
+This visualization shows us that not only are there more collisions when alcohol is involved, but there is also a greater volume and increased severity of injuries than when it is bad weather. Using this data, police departments can utilize more DUI checkpoints to mitigate alcohol contributed instances.
 <img width="864" alt="Screenshot 2025-04-18 at 7 42 40 PM" src="https://github.com/user-attachments/assets/d1e452fd-0850-4543-bc2a-7b589442d6ac" />
 
 ### Question 2
-What time of day has the most collisions?
+What time of day do most collisions occur?
 
-This visualization tells us that during midday, there is a higher risk of collisions. This is in some ways surprising because nighttime could include more under influence incidents and seeing can be more challenging at night. This also can lead to higher resource allocation during midday.
+This visualization tells us that during midday, there is a higher risk of collisions. This is, in some ways, surprising because one would expect nighttime to have more collisions, where factors could include more under-influence incidents, and seeing can be more challenging at night. Police departments and emergency personnel can then use this data to increase resource allocation to traffic incidents during midday.
 
 <img width="365" alt="Screenshot 2025-04-18 at 7 47 39 PM" src="https://github.com/user-attachments/assets/8b7fba02-e8ed-47bb-85ee-4cb71cefa10a" />
 
