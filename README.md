@@ -41,4 +41,4 @@ This visualization tells us that during midday, there is a higher risk of collis
 <img width="365" alt="Screenshot 2025-04-18 at 7 47 39 PM" src="https://github.com/user-attachments/assets/8b7fba02-e8ed-47bb-85ee-4cb71cefa10a" />
 
 ## Tableau Packaged Workbook Link
-Link to workbook [MIS4610_Project2](https://github.com/matthewschwanekamp/TWBFile)
+Link to workbook [MIS4610_Project2]([https://github.com/matthewschwanekamp/TWBFile](https://github.com/matthewschwanekamp/Project2_4610_TWBX/tree/main))
