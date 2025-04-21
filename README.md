@@ -21,7 +21,7 @@ By utilizing data/time data with crash volume, police forces are better able to 
 ## Data Manipulation
 Two calculated fields were created.
 
-In the first visualization, a calculated field was used to define attributes that indicate 'Bad Weather,' defined as foggy or blowing sand, snow, dirt, or soil. Additionally, it defined whether alcohol was contributing and whether both bad weather and alcohol were contributing.
+In the first visualization, a calculated field was used to define attributes that indicate 'Bad Weather,' defined as foggy or blowing sand, snow, dirt, or soil.
 
 In the second visualization, a calculated field was used to define different parts of the day, i.e., morning, midday, and night. Morning is defined as 5 - 11 am, midday is defined as 12 - 5 pm, and night is 5 pm - 5 am.
 
